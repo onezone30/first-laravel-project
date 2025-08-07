@@ -6,7 +6,7 @@
 
         <main class="mt-10 max-w-[968px] mx-auto">
 
-            <section class="mt-10">
+            <x-section>
 
                 <div class="mb-6">
                     <x-title-heading>
@@ -41,7 +41,7 @@
                     
                 </x-forms.form>
 
-            </section>
+            </x-section>
         
         </main>
 

@@ -6,7 +6,7 @@
 
         <main class="mt-10 max-w-[968px] mx-auto">
 
-            <section class="mt-10">
+            <x-section>
 
                 <div class="text-center py-8">
                     <h1 class="font-bold text-4xl mb-8">
@@ -28,10 +28,10 @@
                 </div>
 
 
-            </section>
+            </x-section>
 
         
-            <section class="mt-10">
+            <x-section>
                 <x-heading>
                     Featured Jobs
                 </x-heading>
@@ -43,9 +43,9 @@
                     @endforeach
                 </div>
 
-            </section>
+            </x-section>
 
-            <section class="mt-10">
+            <x-section>
 
                 <x-heading>
                     Tags
@@ -57,9 +57,9 @@
                     @endforeach
                 </div>
 
-            </section>
+            </x-section>
 
-            <section class="mt-10">
+            <x-section>
 
                 <x-heading>
                     Find Jobs
@@ -74,7 +74,7 @@
                 </div>
 
 
-            </section>
+            </x-section>
         
         </main>
 
